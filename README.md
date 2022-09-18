@@ -11,7 +11,7 @@ npm install -g random-str-msg-osolorzano2
 # Usage
 
 ```bash
- random-str-msg-osolorzano2
+ random-str-msg
 ```
 
 # Contributing
